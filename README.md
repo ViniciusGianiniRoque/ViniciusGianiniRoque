@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 Busco oportunidades para crescer e desenvolver cada vez mais minhas habilidades. **Viver de desenvolvimento Front-end e ou Back-end**
 
-- 🌱 Atualmente estou finalizando **PHP, HTML e CSS.**
+- 🌱 Atualmente estudei **PHP, HTML, PYTHON e CSS.**
 
 - 📫 Meu e-mail é **gianinivinicius@gmail.com**
 
